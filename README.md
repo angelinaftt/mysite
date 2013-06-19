@@ -5,6 +5,8 @@ This is a project I am working on for my fabulous comp 1950 class. My instructor
 
 This will include: 
 
-*HTML (star means list item)
-*CSS (star means list item)
-*JS (star means list item)
+* HTML
+* CSS 
+* JS 
+
+Next we are going to jQuery.
